@@ -1,6 +1,12 @@
-*__pycache__*
+# Byte-compiled / optimized / DLL files
+__pycache__ /
+*.py[cod]
+*$py.class
+*/ __pycache__ /*
 
-*.pyc
+# Flask stuff:
+instance/
+.webassets-cache
 
 # JPEG
 *.jpg
