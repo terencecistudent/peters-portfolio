@@ -1,1 +1,1 @@
-web: gunicorn app:app flask run
+web: gunicorn peter_photography.wsgi:application
