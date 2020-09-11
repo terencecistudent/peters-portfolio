@@ -1,1 +1,1 @@
-web: gunicorn peter_photography.wsgi:application
+web: gunicorn app:app
