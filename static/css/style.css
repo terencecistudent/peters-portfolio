@@ -10,6 +10,7 @@ h2 {
 
 #header-section {
     background-color: #d3d3d378;
+    overflow-wrap: break-word;
 }
 
 .heading-info {
