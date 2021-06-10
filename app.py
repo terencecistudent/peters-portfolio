@@ -13,7 +13,9 @@ def index():
     # images = os.listdir(os.path.join(app.static_folder("images")))
     images = os.listdir('static/images')
     images = ['images/' + image for image in images]
-    return render_template("index.html", images=images)
+    sorted_images = sorted(images)
+
+    return render_template("index.html", images=sorted_images)
 
 
 if __name__ == "__main__":
