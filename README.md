@@ -110,13 +110,13 @@ There are no differences between the website's development version and the deplo
 
 I have carried out manual tests on User Stories No. 1-4.
 
-[Manual Tests](https://github.com/terencecistudent/peter-photography/blob/master/Manual%20Tests.pdf)
+[Manual Tests](https://github.com/terencecistudent/peters-portfolio/blob/master/testing/Manual%20Tests.pdf)
 
 ### Responsiveness On Different Devices Tests:
 
 I have done tests of the website's responsiveness using both Google Chrome's and Microsoft Edge's Dev Tools.
 
-[Responsive Tests](https://github.com/terencecistudent/peter-photography/blob/master/Responsiveness-On-Different-Devices.pdf)
+[Responsive Tests](https://github.com/terencecistudent/peters-portfolio/blob/master/testing/Responsiveness-On-Different-Devices.pdf)
 
 ### Running Responsive Designs on Google Chrome:
 
