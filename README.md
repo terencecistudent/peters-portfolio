@@ -6,7 +6,7 @@ This is a photo gallery website that displays photographs taken by a friend of m
 
 ## Wireframes
 
-I have used Bootstrap Studio to create the wireframes: [Click here](https://github.com/terencecistudent/peters-portfolio/blob/master/wireframes/peterlynchphotography.pdf)
+I have used Figma to create the wireframes: [Click here](https://github.com/terencecistudent/peters-portfolio/blob/master/wireframes/peterlynchphotography.pdf)
 
 ## UX
 
